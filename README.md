@@ -1,5 +1,8 @@
 # Hi, I’m Eric 👋
-Welcome to my profile! I have always enjoyed exploring and solving problems, especially with code. I love python, and I am learning C# and Azure.
+Welcome to my profile! I have always enjoyed exploring and solving problems, especially with code.
+
+Python is my first love 💖🐍
+
 I hope my projects can provide you with some insight or inspiration for your own ideas.
 
 <!---
