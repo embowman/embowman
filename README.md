@@ -1,9 +1,9 @@
 # Hi, I’m Eric 👋
-Welcome to my profile! I have always enjoyed exploring and solving problems, especially with code.
+Welcome to my profile! I have always enjoyed exploring and solving problems, especially with code 🕵️‍
 
-Python is my first love 💖🐍
+Python is my first love 💖🐍  
 
-I hope my projects can provide you with some insight or inspiration for your own ideas.
+... but you may find other stuff ✨sprinkled✨ throughout
 
 <!---
 embowman/embowman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
